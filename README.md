@@ -62,12 +62,6 @@ Lab.atsln
      - Stop bits: 1
    - Verify output for ADC readings and PWM signal adjustments.
 
-## Screenshots
-### Task 2 Output
-![Task 2 Output]
-
-### Task 3 Output
-![Task 3 Output]
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
