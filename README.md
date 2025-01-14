@@ -21,13 +21,13 @@ This repository contains an embedded systems project involving RS232 communicati
 ### Project Structure
 ```
 📁 Lab
-   ├── ADC_and_PWM_Control.c       // ADC and PWM control logic
-   ├── UART_Character_Transmit.c   // UART communication logic
-   ├── Debug/                      // Debugging output files
+   ├── ADC_and_PWM_Control.c       
+   ├── UART_Character_Transmit.c   
+   ├── Debug/                      
 📁 images
-   ├── Task2.png                   // Output screenshot for Task 2
-   ├── Task3.png                   // Output screenshot for Task 3
-Lab.atsln                          // Microchip Studio solution file
+   ├── Task2.png                   
+   ├── Task3.png                   
+Lab.atsln                          
 ```
 
 ## Requirements
