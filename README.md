@@ -64,10 +64,10 @@ Lab.atsln
 
 ## Screenshots
 ### Task 2 Output
-![Task 2 Output](images/Task2.png)
+![Task 2 Output]
 
 ### Task 3 Output
-![Task 3 Output](images/Task3.png)
+![Task 3 Output]
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
